@@ -1,6 +1,6 @@
 .logo-group {
     font-family: Monserrat, sans-serif;
-    height:22vh;
+    height: 20vh;
 }
 
 .tagline {
@@ -11,3 +11,20 @@
 .arrival {
     height:40vh;
 }
+
+.sign-up {
+    color:  #67727A;
+    font-family: Monserrat, sans-serif;
+}
+
+.sign-up .clear input {
+   background-color:  #67727A !important;
+}
+
+
+@media ( max-width: 336px ){
+    .logo-group {
+        height: 5vh;
+    }
+}
+
