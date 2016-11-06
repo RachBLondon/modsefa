@@ -1,5 +1,5 @@
 .logo-group {
-    font-family: Monserrat, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     height: 20vh;
 }
 
@@ -10,11 +10,13 @@
 
 .arrival {
     height:40vh;
+    font-family: 'Esteban', serif;
+    font-size: 0.8em;
 }
 
 .sign-up {
     color:  #67727A;
-    font-family: Monserrat, sans-serif;
+    font-family: Monserrat;
 }
 
 .sign-up .clear input {
