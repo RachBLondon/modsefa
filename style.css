@@ -14,6 +14,15 @@
     font-size: 0.8em;
 }
 
+.social-media {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.social-media i {
+    color:  #67727A;
+}
+
 .sign-up {
     color:  #67727A;
     font-family: Monserrat;
